@@ -19,3 +19,6 @@
 [![update-readme](https://github.com/imjuliengaupin/imjuliengaupin/actions/workflows/update-readme.yml/badge.svg?branch=PROD)](https://github.com/imjuliengaupin/imjuliengaupin/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/imjuliengaupin/testing/pull/1) in [imjuliengaupin/testing](https://github.com/imjuliengaupin/testing)
+2. 💪 Opened PR [#1](https://github.com/imjuliengaupin/testing/pull/1) in [imjuliengaupin/testing](https://github.com/imjuliengaupin/testing)
+<!--END_SECTION:activity-->
