@@ -19,6 +19,6 @@
 [![update-readme](https://github.com/imjuliengaupin/imjuliengaupin/actions/workflows/update-readme.yml/badge.svg?branch=PROD)](https://github.com/imjuliengaupin/imjuliengaupin/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [imjuliengaupin/bourne](https://github.com/imjuliengaupin/bourne)
-2. 💪 Opened PR [#1](https://github.com/imjuliengaupin/testing/pull/1) in [imjuliengaupin/testing](https://github.com/imjuliengaupin/testing)
+1. ❌ Merged PR [#1](undefined) in [imjuliengaupin/bourne](https://github.com/imjuliengaupin/bourne)
+2. 💪 Opened PR [#1](undefined) in [imjuliengaupin/bourne](https://github.com/imjuliengaupin/bourne)
 <!--END_SECTION:activity-->
