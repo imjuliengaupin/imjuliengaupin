@@ -10,6 +10,12 @@
 - ~~:white_check_mark: Develop a documentation tool using `Python` to generate a `PlantUML` class inheritance model~~
 - ~~:white_check_mark: Develop a reusable and automated GitHub workflow `CI/CD` pipeline using `YAML` for `Python` projects~~
 
+## :toolbox: Featured Projects
+
+- [`bourne`](https://github.com/imjuliengaupin/bourne) — Python automation and agent experimentation
+- [`umlement`](https://github.com/imjuliengaupin/umlement) — Generate UML class inheritance diagrams from Python code
+- [`sparkler`](https://github.com/imjuliengaupin/sparkler) — Java playground project
+
 ## :zap: Recent Activity:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=imjuliengaupin&hide_border=true&theme=blueberry&hide=contribs&hide_rank=false&show_icons=true&custom_title=Activity" />
