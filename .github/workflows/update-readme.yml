@@ -15,9 +15,9 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@v0.4.5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "⚡ updated README.md w/ my recent GitHub activity"
+          COMMIT_MSG: "⚡ update README.md with recent GitHub activity"
