@@ -25,6 +25,6 @@
 [![update-readme](https://github.com/imjuliengaupin/imjuliengaupin/actions/workflows/update-readme.yml/badge.svg?branch=PROD)](https://github.com/imjuliengaupin/imjuliengaupin/actions/workflows/update-readme.yml)
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [imjuliengaupin/umlement](https://github.com/imjuliengaupin/umlement)
+1. 🗣 Commented on [#2](https://github.com/imjuliengaupin/umlement/pull/2#issuecomment-4467813048) in [imjuliengaupin/umlement](https://github.com/imjuliengaupin/umlement)
 2. 💪 Opened PR [#1](undefined) in [imjuliengaupin/umlement](https://github.com/imjuliengaupin/umlement)
 <!--END_SECTION:activity-->
